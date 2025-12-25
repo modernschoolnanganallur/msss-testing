@@ -3,7 +3,7 @@
 window.addEventListener("DOMContentLoaded", () => {
   // ---- Config / Base URL --------------------------------------------------
   // Prefer API from js/config.js; otherwise fall back to Netlify proxy (/api)
-const API = "https://chatbot-api-587062542199.asia-south1.run.app";
+const API = "https://msss-backend-961983851669.asia-south1.run.app";
 console.log("[chat.js] Using Cloud Run API:", API);
 
 
